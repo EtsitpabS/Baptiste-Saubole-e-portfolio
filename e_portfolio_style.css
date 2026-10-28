@@ -181,3 +181,7 @@ footer{
     padding: 30px;
     padding-top: 170px;
 }
+
+li{
+    font-size: 160%;
+}
