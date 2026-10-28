@@ -1,0 +1,62 @@
+<head>
+    <link rel="stylesheet" href="e_portfolio_style.css" type="text/css">
+    <script src="e_portfolio_script.js" defer></script>
+</head>
+
+<body>
+
+    <header class="Sub_header" id="Sub_header">
+        <div id="Full_header">
+            <header class="Title_header" id="Title_header">
+                <h1 >Baptiste SAUBOLE</h1>
+            </header>
+            <div class="flex_div">
+                <nav class="menu">
+                    <a class="Header_text" href="e_portfolio_main.html#" data-i18n="Welcome">Welcome</a>
+                    <a class="Header_text" href="#"  data-i18n="Engineering">Engineering Course</a>
+                    <a class="Header_text" href="e_portfolio_main.html#Mobility" data-i18n="Mobility">International Mobility</a>
+                    <a class="Header_text" href="e_portfolio_activities.html#" data-i18n="Activities">Civic Engagement</a>
+                    <a class="Header_text" href="#" data-i18n="Activities">Other Activities</a>
+                    <a class="Header_text" href="#" data-i18n="Career">Career Development</a>
+                </nav>
+                <select class="language_selection" id="language_selection" onchange="changerLangueDynamique(this.value);chargerArticles(this.value)">
+                    <option value="en" selected>EN</option>
+                    <option value="fr">FR</option>
+                </select>
+            </div>
+        </div>
+        
+    </header>
+    <div class="Main_body">
+        <div class="bandeau_haut">
+            <h1 data-i18n="Activities">Other activities</h1>
+            <div>
+                <h2 class="Section_Title" data-i18n="Painting">Painting / Drawing:</h2>
+                <div class="art_row">
+                    <div class="art_collumn">
+                        <div class="art_block" id="lac_des_cygnes"></div>
+                        <div class="art_block" id="pont_niko"></div>
+                        <div class="art_block" id="temple_japonais"></div>
+                    </div>
+                    <div class="art_collumn">
+                        <div class="art_block" id="coquelicot"></div>
+                        <div class="art_block" id="femme_asiatique"></div>
+                        <div class="art_block" id="baleine"></div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+
+
+    </div>
+    
+    <footer>
+        <div class="footer_div">
+            <p class="footer_text">© 2026 Baptiste SAUBOLE — ENSEEIHT SN</p>
+            <p class="footer_text">bsaubole@gmail.com</p>
+        </div>
+    </footer>
+
+
+</body>
