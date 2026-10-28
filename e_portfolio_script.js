@@ -65,7 +65,17 @@ const traductions = {
         Activities: "Autres Activités",
         Painting: "Peintures / Dessins:",
         e_portfolio: "Mon e-portfolio",
-        Career: "Carrière"
+        Career: "Carrière",
+        PastMobility: "Mes mobilités internationales passées :",
+        FutureMobility: "Mes mobilités internationales futures et projets de mobilités :",
+        LiMob1: "Été 2025: Japon: Tokyo, Kyoto and Okinawa",
+        LiMob2: "Printemps 2025: Grèce: Athènes",
+        LiMob3: "Été 2024: ÉTats-Unis: Côte ouest",
+        LiMob4: "Janvier 2024: États-Unis: J'ai participé à un échange à Phoenix, Arizona",
+        LiMob5: "2023: Italie: Rome",
+        LiMob6: "2022: Portugal: Lisbonne",
+        LiMob7: "2016: Royaume-Unis: Londre",
+        LiMob_1: "Été 2027: je souhaite participer au stage de 7 semaines au Japon proposé en LV2"
     },
     en: {
         Welcome: "Welcome",
@@ -75,7 +85,17 @@ const traductions = {
         Activities: "Other Activities",
         Painting: "Painting / Drawing:",
         e_portfolio: "My e-portfolio",
-        Career: "Career Development"
+        Career: "Career Development",
+        PastMobility: "My past international mobilities :",
+        FutureMobility: "My future or projects of international mobilities :",
+        LiMob1: "Summer 2025: Japan: visited Tokyo, Kyoto and Okinawa",
+        LiMob2: "Spring 2025: Greece: visited Athens",
+        LiMob3: "Summer 2024: USA: visited the west coast",
+        LiMob4: "January 2024: USA: participated in an exchange in Phoenix Arizona",
+        LiMob5: "2023: Italie: visited Rome",
+        LiMob6: "2022: Portugal: visited Lisboa",
+        LiMob7: "2016: UK: visited London",
+        LiMob_1: "Summer 2027: want to participate in the 7 weeks stage in Japan"
     }
 };
 
