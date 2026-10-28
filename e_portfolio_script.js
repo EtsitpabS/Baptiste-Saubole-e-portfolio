@@ -75,7 +75,9 @@ const traductions = {
         LiMob5: "2023: Italie: Rome",
         LiMob6: "2022: Portugal: Lisbonne",
         LiMob7: "2016: Royaume-Unis: Londre",
-        LiMob_1: "Été 2027: je souhaite participer au stage de 7 semaines au Japon proposé en LV2"
+        LiMob_1: "Été 2027: je souhaite participer au stage de 7 semaines au Japon proposé en LV2",
+        LiEng1: "Septembre 2026 à aujourd'hui: filière SN de l'école d'ingénieur ENSEEIHT à Toulouse, France",
+        LiEng2: "Septembre 2024 à Juin 2026: Classes préparatoires aux grandes écoles, PCSI-PSI au Lycée Montaigne, Bordeaux, France"
     },
     en: {
         Welcome: "Welcome",
@@ -95,7 +97,9 @@ const traductions = {
         LiMob5: "2023: Italie: visited Rome",
         LiMob6: "2022: Portugal: visited Lisboa",
         LiMob7: "2016: UK: visited London",
-        LiMob_1: "Summer 2027: want to participate in the 7 weeks stage in Japan"
+        LiMob_1: "Summer 2027: want to participate in the 7 weeks stage in Japan",
+        LiEng1: "September 2026 to now: Computer Science at ENSEEIHT engineering school in Toulouse, France",
+        LiEng2: "September 2024 to June 2026: Preparation classes to Engineering Schools, PCSI-PSI at Lycée Montaigne, Bordeaux, France"
     }
 };
 
