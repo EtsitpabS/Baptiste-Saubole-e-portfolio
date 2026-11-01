@@ -189,3 +189,13 @@ li{
     margin-right: 100px;
     line-height: 200%;
 }
+
+.lien{
+    text-decoration: none;
+    color: #272727;
+}
+
+video{
+    width: 85%;
+    box-shadow: 20px 10px 7px rgba(0,0,0,0.05) ;
+}
