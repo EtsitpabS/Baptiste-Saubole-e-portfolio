@@ -76,7 +76,7 @@ const traductions = {
         LiMob6: "2022: Portugal: Lisbonne",
         LiMob7: "2016: Royaume-Unis: Londres",
         LiMob_1: "Été 2027: je souhaite participer au stage de 7 semaines au Japon proposé en LV2",
-        LiMob_1: "Royaume-Unis",
+        LiMob_2: "Royaume-Unis",
         LiEng1: "Septembre 2026 à aujourd'hui: filière SN de l'école d'ingénieur ENSEEIHT à Toulouse, France",
         LiEng2: "Septembre 2024 à Juin 2026: Classes préparatoires aux grandes écoles, PCSI-PSI au Lycée Montaigne, Bordeaux, France",
         LiCiv1: "Janvier 2025: Don du sang",
