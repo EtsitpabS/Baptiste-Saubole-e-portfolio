@@ -79,7 +79,11 @@ const traductions = {
         LiEng1: "Septembre 2026 à aujourd'hui: filière SN de l'école d'ingénieur ENSEEIHT à Toulouse, France",
         LiEng2: "Septembre 2024 à Juin 2026: Classes préparatoires aux grandes écoles, PCSI-PSI au Lycée Montaigne, Bordeaux, France",
         LiCiv1: "Janvier 2025: Don du sang",
-        LiCiv2: "2023: Collecte à la Banque Alimentaire"
+        LiCiv2: "2023: Collecte à la Banque Alimentaire",
+        Myself: "À propos de moi",
+        Myself_text: "Je suis un étudiant de 20 ans, actuellement à l'école d'ingénieur ENSEEIHT à Toulouse en France, dans la filière Sciences du Numérique (SN). Avant cela j'ai fait une CPGE PCSI-PSI* au Lycée Michel de Montaigne à Bordeaux en France. J'aimerais étudier la cyber securité comme c'est un problème qui devient de plus en plus important et qui concerne tout le monde. Dans quelques années je me vois entrain de travailler dans le domaine de la cyber sécurité dans une entreprise dont ce n'est pas le domaine principal.",
+        CV_fr: "CV Français",
+        CV_en: "CV Anglais"
     },
     en: {
         Welcome: "Welcome",
@@ -103,7 +107,11 @@ const traductions = {
         LiEng1: "September 2026 to now: Computer Science at ENSEEIHT engineering school in Toulouse, France",
         LiEng2: "September 2024 to June 2026: Preparation classes to Engineering Schools, PCSI-PSI at Lycée Montaigne, Bordeaux, France",
         LiCiv1: "January 2025: Blood donation",
-        LiCiv2: "2023: Food bank collect"
+        LiCiv2: "2023: Food bank collect",
+        Myself: "About myself",
+        Myself_text: "I am a twenty years old student currently studying at ENSEEIHT engineering school in Toulouse, France. I study in the digital and computer science field. Before that I was studying at CPGE PCSI-PSI* at Lycée Michel de Montaigne, Bordeaux, France. I am interested in studiying cyber security as it is becoming more and more a major concern for everybody. In a few years I see myself working in the cybersecurity sector for companies whose main sectors aren't cybersecurity.",
+        CV_fr: "French CV",
+        CV_en: "English CV"
     }
 };
 
