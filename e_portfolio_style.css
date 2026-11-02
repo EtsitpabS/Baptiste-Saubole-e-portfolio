@@ -107,6 +107,8 @@ h2 {
 .blocs{
     width: 45%;
     display: flex;
+    position: absolute;
+    background-color: aqua;
 }
 
 .bloc{
