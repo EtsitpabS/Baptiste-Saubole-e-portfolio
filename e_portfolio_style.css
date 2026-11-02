@@ -106,6 +106,7 @@ h2 {
 
 .blocs{
     width: 45%;
+    display: flex;
 }
 
 .bloc{
