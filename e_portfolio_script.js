@@ -84,7 +84,10 @@ const traductions = {
         Myself: "À propos de moi",
         Myself_text: "Je suis un étudiant de 20 ans, actuellement à l'école d'ingénieur ENSEEIHT à Toulouse en France, dans la filière Sciences du Numérique (SN). Avant cela j'ai fait une CPGE PCSI-PSI* au Lycée Michel de Montaigne à Bordeaux en France. J'aimerais étudier la cyber securité comme c'est un problème qui devient de plus en plus important et qui concerne tout le monde. Dans quelques années je me vois entrain de travailler dans le domaine de la cyber sécurité dans une entreprise dont ce n'est pas le domaine principal.",
         CV_fr: "CV Français",
-        CV_en: "CV Anglais"
+        CV_en: "CV Anglais",
+        Contact: "Mes Contacts",
+        LiCo1: "Numéro de téléphone: 06 60 36 11 52",
+        LiCo2: "Mon Linkedin"
     },
     en: {
         Welcome: "Welcome",
@@ -113,7 +116,10 @@ const traductions = {
         Myself: "About myself",
         Myself_text: "I am a twenty years old student currently studying at ENSEEIHT engineering school in Toulouse, France. I study in the digital and computer science field. Before that I was studying at CPGE PCSI-PSI* at Lycée Michel de Montaigne, Bordeaux, France. I am interested in studiying cyber security as it is becoming more and more a major concern for everybody. In a few years I see myself working in the cybersecurity sector for companies whose main sectors aren't cybersecurity.",
         CV_fr: "French CV",
-        CV_en: "English CV"
+        CV_en: "English CV",
+        Contact: "My Contacts",
+        LiCo1: "Phone number: +33 6 60 36 11 52",
+        LiCo2: "My Linkedin"
     }
 };
 
