@@ -121,7 +121,8 @@ h2 {
 .profile_picture{
     width: 40%;
     margin: 60px;
-    margin-top: 0px;
+    margin-top: -10px;
+    margin-left: 55%;
     height: auto;
 }
 
